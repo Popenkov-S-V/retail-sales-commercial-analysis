@@ -20,3 +20,4 @@ retail-sales-commercial-analysis/
 ├── reports/Коммерческий_Отчет_Розничные_Продажи.pdf   # Готовый PDF-отчет для руководства
 ├── notebooks/retail_sales_analysis.ipynb    # Ноутбук с кодом расчетов
 └── README.md                                # Краткое описание проекта (этот файл)
+```
